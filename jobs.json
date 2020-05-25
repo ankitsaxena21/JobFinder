@@ -1,0 +1,210 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Web Developer",
+      "location": "Mexico",
+      "rating": "3.5",
+      "salary": "250k",
+      "tags": [
+        "HTML",
+        "Python",
+        "C"
+      ],
+      "image": "./images/image1.jpg",
+      "favourite": "false"
+    },
+    {
+      "id": "2",
+      "name": "Security Engineer",
+      "location": "Bangalore",
+      "rating": "4",
+      "salary": "150k",
+      "tags": [
+        "C++",
+        "Java",
+        "CSS"
+      ],
+      "image": "./images/image2.jpeg",
+      "favourite": "false"
+    },
+    {
+      "id": "3",
+      "name": "Frontend Engineer",
+      "location": "Paris",
+      "rating": "3",
+      "salary": "330k",
+      "tags": [
+        "JavaScript",
+        "Java",
+        "Angular"
+      ],
+      "image": "./images/image3.jpeg",
+      "favourite": "false"
+    },
+    {
+      "id": "4",
+      "name": "React JS Developer",
+      "location": "Delhi",
+      "rating": "3.5",
+      "salary": "220k",
+      "tags": [
+        "React",
+        "JavaScript"
+      ],
+      "image": "./images/image4.jpg",
+      "favourite": "false"
+    },
+    {
+      "id": "5",
+      "name": "UI Developer",
+      "location": "Delhi",
+      "rating": "4.5",
+      "salary": "180k",
+      "tags": [
+        "UI",
+        "Python"
+      ],
+      "image": "./images/image5.jpg",
+      "favourite": "false"
+    },
+    {
+      "id": "6",
+      "name": "Java Developer",
+      "location": "New York",
+      "rating": "3.8",
+      "salary": "250k",
+      "tags": [
+        "HTML",
+        "CSS"
+      ],
+      "image": "./images/image6.jpg",
+      "favourite": "false"
+    },
+    {
+      "id": "7",
+      "name": "ML Engineer",
+      "location": "Delhi",
+      "rating": "3.4",
+      "salary": "330k",
+      "tags": [
+        "Javascript"
+      ],
+      "image": "./images/image7.jpg",
+      "favourite": "false"
+    },
+    {
+      "id": "8",
+      "name": "Web Developer",
+      "location": "Delhi",
+      "rating": "2.8",
+      "salary": "140k",
+      "tags": [
+        "Python",
+        "CSS",
+        "Java"
+      ],
+      "image": "./images/image8.jpg",
+      "favourite": "false"
+    },
+    {
+      "id": "9",
+      "name": "Network Engineer",
+      "location": "Delhi",
+      "rating": "4.1",
+      "salary": "200k",
+      "tags": [
+        "Java",
+        "Python",
+        "C++"
+      ],
+      "image": "./images/image9.jpg",
+      "favourite": "false"
+    },
+    {
+      "id": "10",
+      "name": "Security Analyst",
+      "location": "Delhi",
+      "rating": "3.7",
+      "salary": "250k",
+      "tags": [
+        "C",
+        "HTML",
+        "Javascript"
+      ],
+      "image": "./images/image10.jpeg",
+      "favourite": "false"
+    },
+    {
+      "id": "11",
+      "name": "Blockchain Developer",
+      "location": "Delhi",
+      "rating": "3.5",
+      "salary": "100k",
+      "tags": [
+        "Java",
+        "HTML",
+        "CSS"
+      ],
+      "image": "./images/image11.jpg",
+      "favourite": "false"
+    },
+    {
+      "id": "12",
+      "name": "AWS Enginner",
+      "location": "Mumbai",
+      "rating": "3.5",
+      "salary": "300k",
+      "tags": [
+        "Angular",
+        "React",
+        "Javascript"
+      ],
+      "image": "./images/image12.jpg",
+      "favourite": "false"
+    },
+    {
+      "id": "13",
+      "name": "Angular Developer",
+      "location": "Delhi",
+      "rating": "4.7",
+      "salary": "300K",
+      "tags": [
+        "Python",
+        "React",
+        "C"
+      ],
+      "image": "./images/image13.jpg",
+      "favourite": "false"
+    },
+    {
+      "id": "14",
+      "name": "Full Stack Developer",
+      "location": "hawaii",
+      "rating": "3",
+      "salary": "350k",
+      "tags": [
+        "Java",
+        "HTML",
+        "CSS",
+        "Python"
+      ],
+      "image": "./images/image14.jpg",
+      "favourite": "false"
+    },
+    {
+      "id": "15",
+      "name": "Testing",
+      "location": "Goa",
+      "rating": "4",
+      "salary": "100k",
+      "tags": [
+        "Ruby",
+        "HTML",
+        "CSS"
+      ],
+      "image": "./images/image15.jpg",
+      "favourite": "false"
+    }
+  ]
+}
