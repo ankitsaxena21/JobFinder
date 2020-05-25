@@ -105,7 +105,7 @@ var updateGoogleUser = function() {
     var email = document.createElement('a')
     email.className = 'email'
     email.textContent = 'Click on the link given below'
-    email.href = '../home.html'
+    email.href = 'https://ankitsaxena21.github.io/JobFinder/home.html'
     email.target = '_blank'
 
     // Append the container and children to the DOM
