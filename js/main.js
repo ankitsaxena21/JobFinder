@@ -9,7 +9,7 @@ let appStart = function() {
 
 let initSignInV2 = function() {
   auth2 = gapi.auth2.init({
-    client_id: '737383445283-l8ngcqi4jpov01phgferq09pqp39k307.apps.googleusercontent.com',
+    client_id: '737383445283-9im0s0r6bosmrcmctd4ml5r04ipn1lcf.apps.googleusercontent.com',
     scope: 'profile'
   })
 
